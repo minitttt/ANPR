@@ -1,0 +1,5 @@
+Timestamp,License Plate,Confidence,Image Path
+2025-05-21 12:01:44,SYI4OAH,60,detected_plates/2025-05-21 120144_SYI4OAH.jpg
+2025-05-21 12:02:24,ABC1234,60,detected_plates/2025-05-21 120224_ABC1234.jpg
+2025-05-21 13:27:34,140AH,100,detected_plates/2025-05-21 132734_140AH.jpg
+2025-05-21 13:27:34,SYI4OAH,66,detected_plates/2025-05-21 132734_SYI4OAH.jpg
